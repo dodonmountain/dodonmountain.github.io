@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[3],{w2l6:function(e,t,a){"use strict";a.r(t);var n=a("q1tI"),c=a.n(n),r=a("Bl7J"),l=a("vrFN");t.default=function(){return c.a.createElement(r.a,null,c.a.createElement(l.a,{title:"404: Not found"}),c.a.createElement("div",{className:"container"},c.a.createElement("h1",{className:"display-1 text-center border-bottom"},"404 ERROR"),c.a.createElement("h3",{className:"text-center"},"안녕하신가, 힘세고 강한 아침 누구냐고 묻는다면 나는 404!")))}}}]);
+//# sourceMappingURL=component---src-pages-404-js-3f8767e38137a7c09f6f.js.map
