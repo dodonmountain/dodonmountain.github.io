@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[3],{w2l6:function(e,t,a){"use strict";a.r(t);var n=a("q1tI"),c=a.n(n),l=a("Bl7J"),r=a("vrFN");a("aCqz");t.default=function(){return c.a.createElement(l.a,null,c.a.createElement(r.a,{title:"404: Not found"}),c.a.createElement("div",{className:"container-fluid p-5"},c.a.createElement("h1",{className:"display-1 text-center border-bottom"},"404 ERROR"),c.a.createElement("h1",{className:"text-center"}," 요청하신 URL을 다시 한번 확인해주세요!")))}}}]);
+//# sourceMappingURL=component---src-pages-404-js-9fc7317695f22cf14ce9.js.map
